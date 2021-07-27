@@ -8,7 +8,7 @@
 
 ### Languages
 
-- python
+- Python
 - C#
 
 ### Back-End Development
