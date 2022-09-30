@@ -26,3 +26,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ilkaxd&show_icons=true&hide_border=true" alt="Ilya Blednykh's GitHub Stats">
 </div>
+
+<div>
+<img src="https://www.codewars.com/users/ilka.%20xd/badges/micro">
+</div>
