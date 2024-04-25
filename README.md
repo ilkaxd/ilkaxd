@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Ilya Blednykh, a **Back-End Developer** (Django) and **Data Scientist** (Tensorflow, Keras).
+🎓 I am Ilya Blednykh, a **Full stack-developer** (React (TypeScript) / Django (Python)) and **Data Scientist** (Tensorflow, Keras, PyTorch).
 
 ## 🛠️ Skills
 
@@ -10,8 +10,13 @@
 
 - Python
 - C#
+- JavaScript (TypeScript)
 
-### Back-End Development
+### Frontend Development
+
+- React
+
+### Backend Development
 
 - Django
 
@@ -19,7 +24,7 @@
 
 - SQLite
 - PostgreSQL
-- SQL Server
+- MS SQL Server
 
 ## Competition platforms
 
