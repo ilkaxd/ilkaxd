@@ -14,11 +14,13 @@
 
 ### Frontend Development
 
-- React
+- React + Redux
 
 ### Backend Development
 
 - Django
+- Flask
+- FastApi
 
 ### Machine Learning Development
 
@@ -31,6 +33,15 @@
 - SQLite
 - PostgreSQL
 - MS SQL Server
+- MongoDB
+- ElasticSearch
+- ClickHouse
+- Redis
+
+### Брокеры
+
+- Kafka
+- RabbitMQ
 
 ## Competition platforms
 
